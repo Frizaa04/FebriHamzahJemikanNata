@@ -1,0 +1,2 @@
+ketika kita mencoba untuk menjalankan models/kontak secara langsung tidak akan muncul apapun dikarenakan kita belum membuat objek yang ingin dikeluarkan. 
+layaknya sebuah rumah kosong tanpa penghuni yang dimana tidak akan ada siapapun saat kita menyuruh untuk keluar.
